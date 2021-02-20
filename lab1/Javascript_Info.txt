@@ -1,0 +1,14 @@
+Distance Matrix:
+https://developers.google.com/maps/documentation/javascript/distancematrix
+https://developers.google.com/maps/documentation/javascript/examples/distance-matrix
+https://jsfiddle.net/api/post/library/pure/  - Example
+
+User Location:
+https://developers.google.com/web/fundamentals/native-hardware/user-location/
+
+
+Other cool stuff while browsing:
+https://www.openstreetmap.org/#map=5/42.423/58.052
+
+
+
